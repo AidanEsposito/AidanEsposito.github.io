@@ -102,6 +102,11 @@ a:hover {
   display: table;
 } */
 
+.mega_column {
+  display: flex;
+  justify-content: space-between;
+}
+
 .column {
   width: 33.33%; /* Set the width of each column */
   padding: 0 8px;
